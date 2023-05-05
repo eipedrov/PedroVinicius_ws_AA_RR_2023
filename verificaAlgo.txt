@@ -1,0 +1,14 @@
+O algoritmo 'VerificaAlgo' recebe um número inteiro n como entrada e executa quatro 
+loops aninhados. O loop externo é executado por 10000 iterações, e os três loops 
+internos têm intervalos variáveis ​​dependendo do valor de n. 
+
+A variável cont é incrementada toda vez que o loop mais interno é executado, a avariavel 
+foi adicionada ao código só para ter uma operação O(1) que não afetasse o algoritmo.
+
+No caso da função VerificaAlgo, podemos analisar sua complexidade da seguinte forma:
+    -O primeiro loop for executa 10.000 vezes, o que é uma complexidade constante O(1);
+    -O segundo loop for executa n-5 vezes, o que é uma complexidade O(n);
+    -O terceiro loop for executa (n/2) - (i+2) + 1 = (n/2) - i - 1 vezes, o que é uma complexidade O(n);
+    -O quarto loop for executa n vezes, o que é uma complexidade O(n);
+Portanto, a complexidade assintótica da função VerificaAlgo é O(n^3).
+
