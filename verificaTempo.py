@@ -2,7 +2,7 @@ import subprocess
 import matplotlib.pyplot as plt
 
 num_executions = 13
-ns = [1 + i*10 for i in range(10)]
+ns = [100 + i*100 for i in range(10)]
 total_times = []
 
 for n in ns:
