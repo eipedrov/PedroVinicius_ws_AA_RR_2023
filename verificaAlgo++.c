@@ -1,4 +1,4 @@
-// Outra forma de melhorar ainda mais é encontrar uma solução que não dependa do 
+// Uma forma melhorar o codigo é encontrar uma solução que não dependa do 
 // loop aninhado. Uma abordagem seria usar uma fórmula matemática que calcula diretamente 
 // o número de iterações. Nesse caso, podemos observar que o loop em k não afeta o número 
 // total de iterações. Portanto, o número total de iterações é:

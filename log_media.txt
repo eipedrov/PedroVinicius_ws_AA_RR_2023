@@ -1,0 +1,10 @@
+Tempo médio de execução para n=100: 1.78 segundos
+Tempo médio de execução para n=200: 13.73 segundos
+Tempo médio de execução para n=300: 46.94 segundos
+Tempo médio de execução para n=400: 107.87 segundos
+Tempo médio de execução para n=500: 209.72 segundos
+Tempo médio de execução para n=600: 361.39 segundos
+Tempo médio de execução para n=700: 574.07 segundos
+Tempo médio de execução para n=800: 856.47 segundos
+Tempo médio de execução para n=900: 1219.40 segundos
+Tempo médio de execução para n=1000: 1676.30 segundos
