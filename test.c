@@ -29,7 +29,7 @@ int VerificaAlgo(int n) {
 
 int main(int argc, char const *argv[])
 {
-    printf("resultado: %d\n ",VerificaAlgo(6));
+    printf("resultado: %d\n ",VerificaAlgo(200));
 
     return 0;
 }
